@@ -19,3 +19,6 @@ The second section of the project was to start from database developed in the fi
 <p>
 
 
+## Group
+- Giulio D'Erasmo
+- Andrea Potì
