@@ -10,8 +10,8 @@ University project at the course of Data Managment for Data Science for an hands
 The first section of the project is divided in two parts: 
 
 1. find a dataset and build a database on **MySQL** in order to:
-> - formulate a set of SQL queries over the relational schema we built;
-> - execute such queries over the database and analyze the results.
+    - formulate a set of SQL queries over the relational schema we built;
+    - execute such queries over the database and analyze the results.
 2. identify possible SQL queries that pose performance problems to the DBMS and optimizing them adding integrity constraints to one or more tables, rewriting the SQL query (without changing its meaning), adding indices to one or more tables, modifying the schema of the database, adding views or new (materialized) tables derived from the existing database tables .
 
 The second section of the project was to start from database developed in the first part and use a NoSQL tool, we choose **MongoDB**, in order to learn how to manage typical relational data in different setup highlighting the differences with respect to a standard (SQL) relational database system, traslating the query in the new system. 
