@@ -16,7 +16,7 @@ The first section of the project is divided in two parts:
 
 The second section of the project was to start from database developed in the first part and use a NoSQL tool, we choose **MongoDB**, in order to learn how to manage typical relational data in different setup highlighting the differences with respect to a standard (SQL) relational database system, traslating the query in the new system. 
 
-## Gituhub organization
+## Github organization
 
 MySQL folder contains three files:
 - Table.sql: sql file used to create the relation table for the schema
