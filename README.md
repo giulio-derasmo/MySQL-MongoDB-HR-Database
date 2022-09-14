@@ -14,11 +14,13 @@ The first section of the project is divided in two parts:
 
 The second section of the project was to start from database developed in the first part and use a NoSQL tool, we choose **MongoDB**, in order to learn how to manage typical relational data in different setup highlighting the differences with respect to a standard (SQL) relational database system, traslating the query in the new system. 
 
+
+## Project group members
+- Giulio D'Erasmo
+- Andrea Potì
+- 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50860347/147412786-183da6b0-990f-4016-9f2e-0719d8066f5b.png" style="width: 100%"/>
 <p>
 
 
-## Group
-- Giulio D'Erasmo
-- Andrea Potì
