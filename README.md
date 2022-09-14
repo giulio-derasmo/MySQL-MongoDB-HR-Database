@@ -16,6 +16,18 @@ The first section of the project is divided in two parts:
 
 The second section of the project was to start from database developed in the first part and use a NoSQL tool, we choose **MongoDB**, in order to learn how to manage typical relational data in different setup highlighting the differences with respect to a standard (SQL) relational database system, traslating the query in the new system. 
 
+## Gituhub organization
+
+MySQL folder contains three files:
+    - Table.sql: sql file used to create the relation table for the schema
+    - MySQL_Query.sql: sql file which store the different query we create
+    - MySQL_presentation.pdf: a brief introductory presentation of the dataset and how we handled it in MySQL
+
+MongoDB folder contains five files:
+    - Change_DataTypes.js, Create_Collection.js, Create_Index.js: js file in order to adapt and store the dataset in the new system
+    - MongoDB_query.js: js file which store the different query we adapt for MongoDB
+    - MongoDB_presentation.pdf: a brief presentation about how we handled the migration from relational database system to MongoDB
+
 
 ## Project group members
 - Giulio D'Erasmo
