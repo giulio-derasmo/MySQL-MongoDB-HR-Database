@@ -5,6 +5,8 @@
 
 University project for an hands on in relation database like MySQL and NoSQL database as MongoDB.
 
+## Project tasks
+
 The first section of the project is divided in two parts: 
 
 1. find a dataset and build a database on **MySQL** in order to:
