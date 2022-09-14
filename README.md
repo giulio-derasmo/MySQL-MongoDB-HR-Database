@@ -3,7 +3,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-University project for an hands on in relation database like MySQL and NoSQL database as MongoDB.
+University project at the course of Data Managment for Data Science for an hands on in relation database like MySQL and NoSQL database as MongoDB.
 
 ## Project tasks
 
