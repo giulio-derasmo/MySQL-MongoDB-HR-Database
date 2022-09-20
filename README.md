@@ -30,9 +30,10 @@ MongoDB folder contains five files:
 
 
 ## Project group members
-- Giulio D'Erasmo
-- Andrea Potì
+- [Giulio D'Erasmo](https://github.com/giulio-derasmo)
+- [Andrea Potì](https://github.com/obster991)
 
+#
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50860347/147412786-183da6b0-990f-4016-9f2e-0719d8066f5b.png" style="width: 100%"/>
 <p>
